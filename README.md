@@ -1,0 +1,2 @@
+# BetterDiscord
+Literally for BetterDiscord
